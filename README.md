@@ -1,7 +1,7 @@
 # Muhammad-Tawhid
 
 <h1 align="center">Hi 👋, I'm Tawhid</h1>
-<h3 align="center">A Crazyest frontend developer from Bangladesh</h3>
+<h3 align="center">A Javascript Expertise From Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadtawhid&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadtawhid" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16_zH6yVohPvDNOwHeneW2w-gf9keLbrh/view?usp=sharing](https://drive.google.com/file/d/16_zH6yVohPvDNOwHeneW2w-gf9keLbrh/view?usp=sharing)
 
-- ⚡ Fun fact **mah grandma said, If I don't be a great web developer She will give me an ugly haircut!**
+- ⚡ Fun fact:  **Mah Grandma said, If I don't be a great Web Developer She will give me an ugly haircut!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
